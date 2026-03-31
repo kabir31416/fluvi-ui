@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https:https://github.com/kabir31416/fluvi-ui.gitj"
+    "url": "git+https:https://github.com/kabir31416/fluvi-ui.git"
   },
 
   "type": "module",
