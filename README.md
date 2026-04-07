@@ -73,7 +73,7 @@ function App() {
 
 ## ⚙️ API Reference
 
-### `FluviElement` Props
+### `FluviDiv` Props
 
 | Prop | Type | Default | Description |
 | :--- | :--- | :--- | :--- |
